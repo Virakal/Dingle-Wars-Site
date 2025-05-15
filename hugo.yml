@@ -1,4 +1,21 @@
-baseURL: https://virakal.github.io/Dingle-Wars-Site
+baseURL: https://dinglewars.virakal.com
 languageCode: en-gb
 title: Dingle Wars Notes
 theme: dark-theme-editor
+
+params:
+  header:
+    title: Dingle Wars Notes
+    subtitle: By Jonno
+  globalFrontmatter:
+    author: Jonno
+    keywords:
+    description:
+  homePage:
+    siteLongDescriptionTitle: Notes
+    siteLongDescription: Check the folders on the left.
+    disableWalkthroughs: true
+  page:
+    showAuthor: false
+  footer:
+    copyrightStr:
