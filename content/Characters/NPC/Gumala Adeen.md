@@ -1,12 +1,12 @@
 ---
 title: Gumala Adeen
 date: 2025-05-14T23:24:39.471Z
-lastmod: 2025-05-15T00:56:26.957Z
+lastmod: 2025-05-15T05:11:00.266Z
 ---
 Species: Twilek
 
 Our benefactor. Not super comfortable around us. Claims to be of noble birth.
 
-Speaks Huttese. Seems to have some respect for [Luca](/Luca).
+Speaks Huttese. Seems to have some respect for [Luca](/PCs/Luca.md).
 
-Pilots the [Lady Finger](/Lady%20Finger).
+Pilots the [Lady Finger](/Plot/Lady%20Finger.md).
