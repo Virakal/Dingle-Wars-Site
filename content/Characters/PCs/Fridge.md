@@ -2,9 +2,10 @@
 title: Fridge
 date: 2025-05-15T00:06:19.384Z
 lastmod: 2025-05-15T05:11:00.274Z
+url: \Characters\PCs\Fridge
 ---
 Player: Laura
 
-![Fridge Portrait.png|250](Fridge%20Portrait.png%7C250)
+<img src="/ob/Images/Fridge%20Portrait.png" width="250px">
 
-Seems belligerent. Kinda stingey. Friends with [Vyna](/Vyna.md).
+Seems belligerent. Kinda stingey. Friends with [Vyna](Vyna).

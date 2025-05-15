@@ -2,8 +2,9 @@
 title: The Artefact
 date: 2025-05-15T02:06:42.074Z
 lastmod: 2025-05-15T05:11:00.324Z
+url: \Plot\The Artefact
 ---
-![Saber Hilt.png](/ob/Images/Saber%20Hilt.png)\
-The artefact is stored in a briefcase belonging to [Gumala Adeen](/Characters/NPC/Gumala%20Adeen.md). We managed to open the briefcase and discovered it's a silver hilted lightsaber.
+[Saber Hilt.png](/ob/Images/Saber%20Hilt.png)\
+The artefact is stored in a briefcase belonging to [Gumala Adeen](/Characters/NPC/Gumala%20Adeen). We managed to open the briefcase and discovered it's a silver hilted lightsaber.
 
-[Luca](/Characters/PCs/Luca.md) seems to have some connection to it - he had a feeling in his chest when he saw it. [Vyna](/Characters/PCs/Vyna.md) noticed that Luca notices something.
+[Luca](/Characters/PCs/Luca) seems to have some connection to it - he had a feeling in his chest when he saw it. [Vyna](/Characters/PCs/Vyna) noticed that Luca notices something.
