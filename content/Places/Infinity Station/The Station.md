@@ -2,7 +2,7 @@
 title: The Station
 date: 2025-05-14T23:21:08.455Z
 lastmod: 2025-05-15T23:12:38.080Z
-url: \Places\Infinity Station\The Station
+url: /Places/Infinity Station/The Station
 ---
 <img src="/ob/Images/Infinity%20Station%20Diagram.png">
 

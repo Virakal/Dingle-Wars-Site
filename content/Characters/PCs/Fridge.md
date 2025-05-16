@@ -2,7 +2,7 @@
 title: Fridge
 date: 2025-05-15T00:06:19.384Z
 lastmod: 2025-05-15T05:11:00.274Z
-url: \Characters\PCs\Fridge
+url: /Characters/PCs/Fridge
 ---
 Player: Laura
 

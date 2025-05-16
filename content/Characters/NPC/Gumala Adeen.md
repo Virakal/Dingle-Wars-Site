@@ -2,7 +2,7 @@
 title: Gumala Adeen
 date: 2025-05-14T23:24:39.471Z
 lastmod: 2025-05-15T05:11:00.266Z
-url: \Characters\NPC\Gumala Adeen
+url: /Characters/NPC/Gumala Adeen
 ---
 Species: Twilek
 

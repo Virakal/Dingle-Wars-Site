@@ -17,7 +17,7 @@ IMAGE_PATH = os.path.join(os.getcwd(), IMAGE_FOLDER)
 
 
 def get_url(file: str) -> str:
-    return file.removeprefix(CONTENT_PATH).removesuffix(".md")
+    return file.removeprefix(CONTENT_PATH).removesuffix(".md").replace('\\', '/')
 
 
 def parsed_image_url(url: str) -> str:

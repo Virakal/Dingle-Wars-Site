@@ -2,7 +2,7 @@
 title: Session 1
 date: 2025-05-14T23:20:25.171Z
 lastmod: 2025-05-15T23:12:38.067Z
-url: \Session\Session 1
+url: /Session/Session 1
 ---
 **Date: 14/05/2025**
 

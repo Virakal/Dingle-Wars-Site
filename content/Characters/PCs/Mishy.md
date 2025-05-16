@@ -2,7 +2,7 @@
 title: Mishy
 date: 2025-05-14T23:34:27.974Z
 lastmod: 2025-05-15T01:12:53.951Z
-url: \Characters\PCs\Mishy
+url: /Characters/PCs/Mishy
 ---
 Player: Jon\
 Name: Mshyyyg “Mishy” Und’ogg\

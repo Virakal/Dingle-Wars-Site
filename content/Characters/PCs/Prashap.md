@@ -2,7 +2,7 @@
 title: Prashap
 date: 2025-05-14T23:54:14.719Z
 lastmod: 2025-05-15T01:13:00.195Z
-url: \Characters\PCs\Prashap
+url: /Characters/PCs/Prashap
 ---
 Player: Adam\
 Species: Gungan\
