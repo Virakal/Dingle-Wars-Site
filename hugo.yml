@@ -3,6 +3,9 @@ languageCode: en-gb
 title: Dingle Wars Notes
 theme: dark-theme-editor
 
+ignoreLogs:
+  - warning-goldmark-raw-html
+
 params:
   header:
     title: Dingle Wars Notes
