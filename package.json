@@ -8,6 +8,7 @@
   "scripts": {
     "build": "hugo build",
     "parse": "python parse_content.py",
-    "serve": "hugo serve"
+    "serve": "hugo serve",
+    "serve:full": "yarn serve --disableFastRender"
   }
 }
