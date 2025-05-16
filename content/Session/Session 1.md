@@ -1,7 +1,7 @@
 ---
 title: Session 1
 date: 2025-05-16T01:16:46.489Z
-lastmod: 2025-05-16T01:16:46.490Z
+lastmod: 2025-05-16T05:02:46.726Z
 url: /Session/Session 1
 ---
 **Date: 14/05/2025**
@@ -36,7 +36,7 @@ When we get to the station we see maintenance crews working and a hologram polic
 
 We look down from an observation deck and notice that the [Lady Finger](/Plot/Lady%20Finger) has exploded and little is left.
 
-Luca guesses a Nemoidian is behind it. We try to investigate and notice a maintenance guy going through a door (missed why that's relevant?). Vyna tries to send their droid through the door to investigate which gets us noticed by a security droid. Luca wanders away trying to distract the droid and slips into the crowd.
+Luca guesses a Gamorrean is behind it. We try to investigate and notice a maintenance guy going through a door (TODO: missed why that's relevant?). Vyna tries to send their droid through the door to investigate which gets us noticed by a security droid. Luca wanders away trying to distract the droid and slips into the crowd.
 
 The rest of us start trying to open the door. Vyna and Fridge start working on it while Mishy blocks the view. Prashap starts jizzing out on a flute he assembled from his bag to distract the crowd.
 
@@ -57,6 +57,8 @@ Luca figures out where the briefcase might be and finds it in Gumala's quarters.
 
 Luca notices that the suitcase is very light. Vyna suggests we open it but Luca and Mishy think we should open it later. Fridge is angry but Vyna is convinced. We contain Prashap and let him know that we found the package. He tells us he's going to find Gumala. Prashap wanders past the casino again and is enthralled.
 
-We start trying to open the briefcase as we walk back tot he elevator. Mishy figures out the password "LadyFinger" and opens the case up. There's a pristine silver-hilted lightsaber inside.
+We start trying to open the briefcase as we walk back to the elevator. Mishy figures out the password `LadyFinger` and opens the case up. There's a pristine silver-hilted lightsaber inside.
 
 [Luca](/Characters/PCs/Luca) seems to have some connection to it - he had a feeling in his chest when he saw it. [Vyna](/Characters/PCs/Vyna) noticed that Luca notices something.
+
+In the end Prashap is separated from the main group looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) after causing a distraction. The rest of the group is heading back up through the freight elevator to the spaceport and have just managed to open the briefcase containing [The Artefact](/Plot/The%20Artefact).

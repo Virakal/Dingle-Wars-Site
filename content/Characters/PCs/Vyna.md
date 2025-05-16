@@ -1,10 +1,10 @@
 ---
 title: Vyna
 date: 2025-05-15T00:03:40.587Z
-lastmod: 2025-05-15T05:11:00.284Z
+lastmod: 2025-05-16T05:06:31.451Z
 url: /Characters/PCs/Vyna
 ---
-Player: Goose
+**Player:** Goose
 
 Actual Mandalorian.
 

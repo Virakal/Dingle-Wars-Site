@@ -1,22 +1,31 @@
 ---
 title: Infinity Station
 date: 2025-05-16T01:16:46.486Z
-lastmod: 2025-05-16T01:16:46.487Z
+lastmod: 2025-05-16T04:58:49.985Z
 url: /Places/Infinity Station/Infinity Station
 ---
 <img src="/ob/Images/Infinity%20Station%20Diagram.png">
 
 ## Description
 
-Top half is made of glass, can see through it. Station constantly rotates to make artificial gravity. 30 hour rotation, 10 hour artificial night where all lights are turned off. Hour 20-30 is night.
+The station is owned and built by the [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%20Group).
 
-Owned by [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%20Group).
+It's a ring shaped structure attached to a central column with spokes. The top half of the ring is made of transparent glass.
+
+The station rotates every 30 hours, which is how it maintains its artificial gravity. Between hours 20 and 30 there is an artificial night where all lights are turned off.
+
+## Security
+
+The station has private security rather than the usual storm troopers; There is very little imperial presence in general. Security checks seem to be nominal and people are allowed to roam the station with their weapons.
 
 ## Amenities
 
 * Cantina
   * [Fudd Ruckers](../Fudd%20Ruckers)
 * Bazaar
+* Marketplace
+* Spaceports
+  * One with repair bay
 * Transit Station
 * [Casino District](../Casino%20District)
   * [Infinity Dome](../Infinity%20Dome)

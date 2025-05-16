@@ -1,11 +1,11 @@
 ---
 title: Luca
 date: 2025-05-14T23:23:47.998Z
-lastmod: 2025-05-15T00:49:41.146Z
+lastmod: 2025-05-16T05:05:14.376Z
 url: /Characters/PCs/Luca
 ---
-Player: Arahen\
-Name: Luca Orden
+**Player:** Arahen\
+**Name:** Luca Orden
 
 <img src="/ob/Images/Luca%20Portrait.png">
 
