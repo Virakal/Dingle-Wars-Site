@@ -4,8 +4,6 @@ url: /Characters/PCs
 weight: 40
 ---
 
-# PCs
-
 - 📄 [Fridge](./Fridge)
 - 📄 [Luca](./Luca)
 - 📄 [Mishy](./Mishy)

@@ -131,8 +131,6 @@ def get_index_page(path: str, folders: list[str], files: list[str], weight: int 
         f"weight: {weight}",
         "---",
         "",
-        f"# {folder_name}",
-        "",
     ]
 
     for folder in folders:
