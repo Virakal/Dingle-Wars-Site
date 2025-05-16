@@ -5,6 +5,11 @@
   "repository": "https://github.com/Virakal/Dingle-Wars-Site.git",
   "author": "Jon Goodger <jonno.is@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "hugo build",
+    "prepare": "(cd themes/docsy && npm install)",
+    "serve": "hugo serve"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
