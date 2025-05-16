@@ -18,6 +18,7 @@ params:
     siteLongDescriptionTitle: Notes
     siteLongDescription: Check the folders on the left.
     disableWalkthroughs: true
+    recentPostShowUrl: false
   page:
     showAuthor: false
   footer:
