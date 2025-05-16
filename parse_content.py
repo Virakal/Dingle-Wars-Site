@@ -10,6 +10,7 @@ CONTENT_FOLDER = "content"
 IMAGE_FOLDER = "static/ob/Images"
 IMAGE_URL = "/ob/Images"
 LINK_REGEX = re.compile(r"(?P<bang>!)?\[(?P<text>.+?)\]\((?P<url>.+?)\)")
+SITE_TITLE = "Dingle Wars Notes"
 YAML_DELIMITER = "---"
 
 CONTENT_PATH = os.path.join(os.getcwd(), CONTENT_FOLDER)
@@ -112,6 +113,10 @@ def add_urls():
 def get_index_page(path: str, folders: list[str], files: list[str]) -> str:
     folder_name = os.path.basename(path)
     url = path.replace(CONTENT_PATH, "").replace("\\", "/")
+
+    if folder_name == os.path.basename(CONTENT_FOLDER):
+        # We're on the root
+        folder_name = SITE_TITLE
 
     lines = [
         "---",

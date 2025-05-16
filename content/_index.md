@@ -1,9 +1,9 @@
 ---
-title: content
+title: Dingle Wars Notes
 url: 
 ---
 
-# content
+# Dingle Wars Notes
 
 - 📁 [Characters](./Characters/)
 - 📁 [Factions and Groups](./Factions%20and%20Groups/)
