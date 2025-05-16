@@ -1,7 +1,7 @@
 baseURL: https://dinglewars.virakal.com
 languageCode: en-gb
 title: Dingle Wars Notes
-theme: dark-theme-editor
+theme: docsy
 
 ignoreLogs:
   - warning-goldmark-raw-html
