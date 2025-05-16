@@ -14,5 +14,5 @@ markup:
 disablePathToLower: true
 
 params:
-  bookTheme: auto
+  bookTheme: dark
   bookSection: "*"
