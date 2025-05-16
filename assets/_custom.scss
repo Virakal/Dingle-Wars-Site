@@ -1,0 +1,10 @@
+.desktop-header {
+    font-weight: 400;
+    line-height: 1;
+    font-size: 2rem;
+    margin: 1rem 0;
+
+    @media screen and (max-width: 896px) {
+        display: none;
+    }
+}
