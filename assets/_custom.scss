@@ -1,3 +1,5 @@
+@use "sass:color";
+
 .desktop-header {
     font-weight: 400;
     line-height: 1;
@@ -26,4 +28,12 @@ nav.dingle-breadcrumbs {
             content: " /";
         }
     }
+}
+
+.book-menu-content {
+    border-right: 1px solid var(--nav-stripe);
+}
+
+.book-toc-content {
+    border-left: 1px solid var(--nav-stripe);
 }
