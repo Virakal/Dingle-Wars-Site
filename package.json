@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "hugo build",
+    "parse": "python parse_content.py",
     "serve": "hugo serve"
   }
 }
