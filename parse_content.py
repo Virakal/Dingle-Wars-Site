@@ -78,8 +78,11 @@ def strip_link_suffix(line: str, file: str) -> str:
 
 
 def add_urls():
+    weight = 0
+
     for file in iglob(CONTENT_PATH + "/**/*.md", recursive=True):
         print(f"Updating {file}...")
+        weight += 1000
 
         with open(file, "r+") as f:
             lines = f.readlines()
@@ -105,12 +108,15 @@ def add_urls():
                 url = get_url(file)
                 lines.insert(i, f"url: {url}\n")
 
+            if not list(filter(lambda x: x.startswith("weight:"), yaml_lines)):
+                lines.insert(i, f"weight: {weight}\n")
+
             f.truncate(0)
             f.seek(0)
             f.writelines(lines)
 
 
-def get_index_page(path: str, folders: list[str], files: list[str]) -> str:
+def get_index_page(path: str, folders: list[str], files: list[str], weight: int = 1) -> str:
     folder_name = os.path.basename(path)
     url = path.replace(CONTENT_PATH, "").replace("\\", "/")
 
@@ -122,6 +128,7 @@ def get_index_page(path: str, folders: list[str], files: list[str]) -> str:
         "---",
         f"title: {folder_name}",
         f"url: {url}",
+        f"weight: {weight}",
         "---",
         "",
         f"# {folder_name}",
@@ -141,14 +148,17 @@ def get_index_page(path: str, folders: list[str], files: list[str]) -> str:
 
 
 def create_indexes():
+    weight = 0
     for path, folders, files in os.walk(CONTENT_PATH):
+        weight += 10
+
         if "index.md" in files or "_index.md" in files:
             continue
 
         index_path = os.path.join(path, "_index.md")
 
         with open(index_path, "w") as f:
-            f.write(get_index_page(path, folders, files))
+            f.write(get_index_page(path, folders, files, weight))
 
         print("Indexed path", index_path)
 

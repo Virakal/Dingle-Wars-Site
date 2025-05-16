@@ -1,6 +1,7 @@
 ---
 title: Characters
 url: /Characters
+weight: 20
 ---
 
 # Characters

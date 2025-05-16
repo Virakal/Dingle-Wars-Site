@@ -1,6 +1,7 @@
 ---
 title: Infinity Station
 url: /Places/Infinity Station
+weight: 70
 ---
 
 # Infinity Station

@@ -2,6 +2,7 @@
 title: The Artefact
 date: 2025-05-15T02:06:42.074Z
 lastmod: 2025-05-16T05:04:16.858Z
+weight: 16000
 url: /Plot/The Artefact
 ---
 <img src="/ob/Images/Saber%20Hilt.png">\

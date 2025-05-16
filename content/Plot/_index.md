@@ -1,6 +1,7 @@
 ---
 title: Plot
 url: /Plot
+weight: 80
 ---
 
 # Plot

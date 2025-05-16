@@ -2,6 +2,7 @@
 title: Infinity Station
 date: 2025-05-16T01:16:46.486Z
 lastmod: 2025-05-16T04:58:49.985Z
+weight: 13000
 url: /Places/Infinity Station/Infinity Station
 ---
 <img src="/ob/Images/Infinity%20Station%20Diagram.png">

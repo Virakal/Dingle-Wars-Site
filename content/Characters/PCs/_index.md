@@ -1,6 +1,7 @@
 ---
 title: PCs
 url: /Characters/PCs
+weight: 40
 ---
 
 # PCs

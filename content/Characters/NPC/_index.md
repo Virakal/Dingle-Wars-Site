@@ -1,6 +1,7 @@
 ---
 title: NPC
 url: /Characters/NPC
+weight: 30
 ---
 
 # NPC

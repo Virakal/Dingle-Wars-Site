@@ -1,6 +1,7 @@
 ---
 title: Factions and Groups
 url: /Factions and Groups
+weight: 50
 ---
 
 # Factions and Groups
