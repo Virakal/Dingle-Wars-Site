@@ -65,7 +65,7 @@ def parse_link(match: re.Match[str], file: str) -> str:
         relative_file_path = os.path.join(directory, clean_url.removeprefix("/"))
 
         if os.path.exists(relative_file_path):
-            url = url.removeprefix("/")
+            url = "../" + url.removeprefix("/")
 
     url = url.removesuffix(".md")
 

@@ -8,4 +8,4 @@ Player: Goose
 
 Actual Mandalorian.
 
-Friends with [Fridge](Fridge).
+Friends with [Fridge](../Fridge).

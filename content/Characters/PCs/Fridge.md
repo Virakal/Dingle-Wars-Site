@@ -8,4 +8,4 @@ Player: Laura
 
 <img src="/ob/Images/Fridge%20Portrait.png" width="250px">
 
-Seems belligerent. Kinda stingey. Friends with [Vyna](Vyna).
+Seems belligerent. Kinda stingey. Friends with [Vyna](../Vyna).

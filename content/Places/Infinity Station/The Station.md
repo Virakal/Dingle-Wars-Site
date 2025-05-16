@@ -15,10 +15,10 @@ Owned by [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%
 ## Amenities
 
 * Cantina
-  * [Fudd Ruckers](Fudd%20Ruckers)
+  * [Fudd Ruckers](../Fudd%20Ruckers)
 * Bazaar
 * Transit Station
-* [Casino District](Casino%20District)
-  * [Infinity Dome](Infinity%20Dome)
+* [Casino District](../Casino%20District)
+  * [Infinity Dome](../Infinity%20Dome)
 * Lodging Area
-  * [Starlight Hotel](Starlight%20Hotel)
+  * [Starlight Hotel](../Starlight%20Hotel)
