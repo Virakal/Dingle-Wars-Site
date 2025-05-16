@@ -8,3 +8,22 @@
         display: none;
     }
 }
+
+nav.dingle-breadcrumbs {
+    ul {
+        padding-left: 1rem;
+    }
+
+    li {
+        display: inline-block;
+        list-style: none;
+
+        &:first-of-type {
+            display: none;
+        }
+
+        &:not(:last-of-type)::after {
+            content: " /";
+        }
+    }
+}
