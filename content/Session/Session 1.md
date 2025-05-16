@@ -41,7 +41,7 @@ Luca guesses a Nemoidian is behind it. We try to investigate and notice a mainte
 The rest of us start trying to open the door. Vyna and Fridge start working on it while Mishy blocks the view. Prashap starts jizzing out on a flute he assembled from his bag to distract the crowd.
 
 Map of the area above the dock:\
-[S1 Ship Map.png](/ob/Images/S1%20Ship%20Map.png)
+<img src="/ob/Images/S1%20Ship%20Map.png">
 
 Prashap's jizz distracts the security guards and they start following him while he walks away from us. Fridge and Vyna pry the door open, everybody except Prashap enters and Luca closes the door using the force subtly, but Vyna notices (and doesn't say anything).
 

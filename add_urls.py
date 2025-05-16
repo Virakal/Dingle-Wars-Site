@@ -21,13 +21,23 @@ def get_url(file: str) -> str:
 
 
 def parsed_image_url(url: str) -> str:
-    path, width = url.split("|")
+    parts = url.split("|")
+    path = parts[0]
+    width = None
+
+    if len(parts) > 1:
+        width = parts[1]
 
     if os.path.exists(os.path.join(IMAGE_PATH, path)):
         path = f"{IMAGE_URL}/{path}"
 
     quoted = quote(path)
-    return f"<img src=\"{quoted}\" width=\"{width}px\">"
+    width_html = ""
+
+    if width:
+        width_html = f' width="{width}px"'
+
+    return f'<img src="{quoted}"{width_html}>'
 
 
 def parse_link(match: re.Match[str], file: str) -> str:
@@ -37,16 +47,18 @@ def parse_link(match: re.Match[str], file: str) -> str:
     directory = os.path.dirname(file)
     clean_url = unquote(url)
 
-    # Don't mess with absolute URLs
-    if url.startswith("http"):
-        return match.string
-
-    if bang and "|" in clean_url:
+    if bang:
         # Turn ![image.png|200] into HTML equivalent because it confuses Hugo
         clean = parsed_image_url(clean_url)
 
         if clean:
             return clean
+    elif url.endswith(".png"):
+        return f"![{text}]({url})"
+
+    # Don't mess with absolute URLs
+    if url.startswith("http"):
+        return match.string.strip()
 
     if url.startswith("/"):
         # Check if this is actually an absolute link

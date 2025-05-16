@@ -7,7 +7,7 @@ url: \Characters\PCs\Luca
 Player: Arahen\
 Name: Luca Orden
 
-[Luca Portrait.png](/ob/Images/Luca%20Portrait.png)
+<img src="/ob/Images/Luca%20Portrait.png">
 
 Noticeably unarmed.
 
