@@ -17,7 +17,7 @@ IMAGE_PATH = os.path.join(os.getcwd(), IMAGE_FOLDER)
 
 
 def get_url(file: str) -> str:
-    return file.removeprefix(CONTENT_PATH).removesuffix(".md").replace('\\', '/')
+    return file.removeprefix(CONTENT_PATH).removesuffix(".md").replace("\\", "/")
 
 
 def parsed_image_url(url: str) -> str:
@@ -76,7 +76,7 @@ def strip_link_suffix(line: str, file: str) -> str:
     return re.sub(LINK_REGEX, lambda x: parse_link(x, file), line)
 
 
-def main():
+def add_urls():
     for file in iglob(CONTENT_PATH + "/**/*.md", recursive=True):
         print(f"Updating {file}...")
 
@@ -107,6 +107,50 @@ def main():
             f.truncate(0)
             f.seek(0)
             f.writelines(lines)
+
+
+def get_index_page(path: str, folders: list[str], files: list[str]) -> str:
+    folder_name = os.path.basename(path)
+    url = path.replace(CONTENT_PATH, "").replace("\\", "/")
+
+    lines = [
+        "---",
+        f"title: {folder_name}",
+        f"url: {url}",
+        "---",
+        "",
+        f"# {folder_name}",
+        "",
+    ]
+
+    for folder in folders:
+        folder_url = quote(f"./{folder}/")
+        lines.append(f"- 📁 [{folder}]({folder_url})")
+
+    for file in files:
+        file_name = file.removesuffix(".md")
+        file_url = quote(f"./{file_name}")
+        lines.append(f"- 📄 [{file_name}]({file_url})")
+
+    return "\n".join(lines) + "\n"
+
+
+def create_indexes():
+    for path, folders, files in os.walk(CONTENT_PATH):
+        if "index.md" in files or "_index.md" in files:
+            continue
+
+        index_path = os.path.join(path, "_index.md")
+
+        with open(index_path, "w") as f:
+            f.write(get_index_page(path, folders, files))
+
+        print("Indexed path", index_path)
+
+
+def main():
+    add_urls()
+    create_indexes()
 
 
 if __name__ == "__main__":

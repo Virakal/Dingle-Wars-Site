@@ -1,14 +1,14 @@
 ---
 title: Session 1
-date: 2025-05-14T23:20:25.171Z
-lastmod: 2025-05-15T23:12:38.067Z
+date: 2025-05-16T01:16:46.489Z
+lastmod: 2025-05-16T01:16:46.490Z
 url: /Session/Session 1
 ---
 **Date: 14/05/2025**
 
 The Twilek [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) has hired us for [The Job](/Plot/The%20Job) - ensuring his safety while we transport [The Artefact](/Plot/The%20Artefact) to Coruscant.
 
-We landed on [The Station](/Places/Infinity%20Station/The%20Station), a space station owned by [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%20Group). (TODO: Did they own it? Missed part of it.)
+We landed on [Infinity Station](/Places/Infinity%20Station/Infinity%20Station), a space station owned by [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%20Group). (TODO: Did they own it? Missed part of it.)
 
 [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) went to secure lodging and inform his father of progress.
 
