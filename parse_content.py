@@ -54,7 +54,7 @@ def parse_link(match: re.Match[str], file: str) -> str:
 
         if clean:
             return clean
-    elif url.endswith(".png"):
+    elif url.endswith(".png") or url.endswith(".webp"):
         return f"![{text}]({url})"
 
     # Don't mess with absolute URLs
