@@ -73,7 +73,7 @@ def parse_link(match: re.Match[str], file: str) -> str:
     return f"[{text}]({url})"
 
 
-def strip_link_suffix(line: str, file: str) -> str:
+def fix_links(line: str, file: str) -> str:
     return re.sub(LINK_REGEX, lambda x: parse_link(x, file), line)
 
 
@@ -86,7 +86,7 @@ def add_urls():
 
         with open(file, "r+") as f:
             lines = f.readlines()
-            lines = list(map(strip_link_suffix, lines, list(repeat(file, len(lines)))))
+            lines = list(map(fix_links, lines, list(repeat(file, len(lines)))))
             i = -1
             yaml_lines = []
             found_start = False
