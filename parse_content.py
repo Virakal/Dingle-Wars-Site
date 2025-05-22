@@ -59,7 +59,8 @@ def parse_link(match: re.Match[str], file: str) -> str:
 
     # Don't mess with absolute URLs
     if url.startswith("http"):
-        return match.string.strip()
+        bang, text, url = match.groups()
+        return f"[{text}]({url})"
 
     if url.startswith("/"):
         # Check if this is actually an absolute link
@@ -116,7 +117,9 @@ def add_urls():
             f.writelines(lines)
 
 
-def get_index_page(path: str, folders: list[str], files: list[str], weight: int = 1) -> str:
+def get_index_page(
+    path: str, folders: list[str], files: list[str], weight: int = 1
+) -> str:
     folder_name = os.path.basename(path)
     url = path.replace(CONTENT_PATH, "").replace("\\", "/")
 
