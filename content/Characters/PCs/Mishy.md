@@ -2,13 +2,13 @@
 title: Mishy
 date: 2025-05-14T23:34:27.974Z
 lastmod: 2025-05-16T05:05:41.839Z
-weight: 6000
+weight: 8000
 url: /Characters/PCs/Mishy
 ---
 **Player:** Jon\
 **Name:** Mshyyyg “Mishy” Und’ogg\
 **Species:** Wookie\
-**Character Sheet:** **Character Sheet:** [Link](https://docs.google.com/document/d/1kSD2lLqSsBQ04c3P7INe-KPUsHVJcQLJIGgUZGsDXEg/edit?tab=t.0)
+**Character Sheet:** [Link](https://docs.google.com/document/d/1kSD2lLqSsBQ04c3P7INe-KPUsHVJcQLJIGgUZGsDXEg/edit?tab=t.0)
 
 <img src="/ob/Images/Mishy%20Portrait%201.png" width="250px">\
 <img src="/ob/Images/Mishy%20Portrait%202.png" width="250px">\

@@ -1,13 +1,13 @@
 ---
 title: Session 1
 date: 2025-05-16T01:16:46.489Z
-lastmod: 2025-05-16T05:02:46.726Z
-weight: 19000
+lastmod: 2025-05-22T02:39:56.769Z
+weight: 24000
 url: /Session/Session 1
 ---
 **Date: 14/05/2025**
 
-The Twilek [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) has hired us for [The Job](/Plot/The%20Job) - ensuring his safety while we transport [The Artefact](/Plot/The%20Artefact) to Coruscant.
+The Twilek [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) has hired us for [The Job](/Plot/The%20Job) - ensuring his safety while we transport [The Lightsaber](/Plot/The%20Lightsaber) to Coruscant.
 
 We landed on [Infinity Station](/Places/Infinity%20Station/Infinity%20Station), a space station owned by [Quasar Investment Group](/Factions%20and%20Groups/Quasar%20Investment%20Group). (TODO: Did they own it? Missed part of it.)
 
@@ -62,4 +62,4 @@ We start trying to open the briefcase as we walk back to the elevator. Mishy fig
 
 [Luca](/Characters/PCs/Luca) seems to have some connection to it - he had a feeling in his chest when he saw it. [Vyna](/Characters/PCs/Vyna) noticed that Luca notices something.
 
-In the end Prashap is separated from the main group looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) after causing a distraction. The rest of the group is heading back up through the freight elevator to the spaceport and have just managed to open the briefcase containing [The Artefact](/Plot/The%20Artefact).
+In the end Prashap is separated from the main group looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) after causing a distraction. The rest of the group is heading back up through the freight elevator to the spaceport and have just managed to open the briefcase containing [The Lightsaber](/Plot/The%20Lightsaber).

@@ -1,0 +1,54 @@
+---
+title: Session 2
+date: 2025-05-21T23:16:49.339Z
+lastmod: 2025-05-22T02:51:01.215Z
+weight: 25000
+url: /Session/Session 2
+---
+**Date: 21/05/2025**
+
+The party, sans [Prashap](/Characters/PCs/Prashap), emerges from the freight lift to the main deck of [Infinity Station](/Places/Infinity%20Station/Infinity%20Station) and sees a mix of chaos and business as usual. People are holocalling their families but many of the gamblers are still gambling like nothing happened. We realise that the spaceport is blocked off.
+
+[Prashap](/Characters/PCs/Prashap) decides now is a good time to look into how the [Infinity Dome](/Places/Infinity%20Station/Infinity%20Dome) works for some reason and wanders off in that direction, still separated from the rest of the group.
+
+The rest of the group agree to look for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) and figure out why he isn't responding to calls.
+
+[Fridge](/Characters/PCs/Fridge) calls [Prashap](/Characters/PCs/Prashap) to ask where he is. Prashap says he's looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) at the casino and Fridge tells him to wait there for us to regroup. The group takes transport to the [Casino District](/Places/Infinity%20Station/Casino%20District)  (passing straight by the lodgings where we're supposed to be going) in order to regroup.
+
+[Prashap](/Characters/PCs/Prashap) is finding out how to enter people into the [Infinity Dome](/Places/Infinity%20Station/Infinity%20Dome). He finds that it seems like anybody can enter. He notices some people walk up to kiosks that seems like the place where you enter for fights. He doesn't see any kind of lounge or bookies. He asks a blue dude how to bet, who says that you have to buy a ticket to get in to bet or you can bet from your datapad. There is a big battle-royale kind of thing for the randos who join and the winner fights the champion. There are also show matches that are put on which are better to bet on. Prashap calls us and says he thinks we can make big credits at the casino with a plan.
+
+[Prashap](/Characters/PCs/Prashap) wants to open the case but [Luca](/Characters/PCs/Luca) and [Fridge](/Characters/PCs/Fridge) say we shouldn't do it in the public. Prashap suggests selling [The Lightsaber](/Plot/The%20Lightsaber) on the black market. We don't know how to get involved with the black market though. We head to the [Starlight Hotel](/Places/Infinity%20Station/Starlight%20Hotel) together to look for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen).
+
+The lobby of the [Starlight Hotel](/Places/Infinity%20Station/Starlight%20Hotel) is very busy due to the spaceport being closed. There is a concierge. [Prashap](/Characters/PCs/Prashap) looks for security guards that might be looking for us but doesn't see any. He notices there are 4 separate security groups.
+
+[Prashap](/Characters/PCs/Prashap) suggests they should steal the information about where [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) and asks [Mishy](/Characters/PCs/Mishy) to create a distraction. [Luca](/Characters/PCs/Luca) uses the force to help distract. He goes to the counter and flips the fuck out in Shyriiwook. The concierges panic a bit and call for the translation droid. Prashap sneaks behind to grab as much intel as he can. Prashap grabs two datapads while theya re distracted but Mishy is asked to leave the hotel.
+
+[Prashap](/Characters/PCs/Prashap) heads upstairs and starts poking around on the data pads. He finds one is a shipping manifest and one is a list of hotel guests. The rest of the group (including [Mishy](/Characters/PCs/Mishy)) join him. We find a penthouse suite on the list for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) on the fourth floor. We take the elevator up to the room.
+
+[Vyna](/Characters/PCs/Vyna) knocks on the door, to no answer. There are two buttons by the door. One shiny and one not. Vyna pushes the shiny button and a doorbell style beep happens, but still no response.  Vyna pushes the other button which lights up red. The door opens partially with a jerk, then opens completely. We find it weird because it seems like the door has been forced open.
+
+[Luca](/Characters/PCs/Luca) uses the force to scan the room for lifeforms and finds nothing. We start walking in to the pitch black room, other than [Prashap](/Characters/PCs/Prashap) who waits outside. [Vyna](/Characters/PCs/Vyna), [Fridge](/Characters/PCs/Fridge) and [Luca](/Characters/PCs/Luca) make it inside before the door slams shut in [Mishy](/Characters/PCs/Mishy)'s face. It's a tight hallway into a maisonette. Vyna uses their droid to scan for robots, which detects something at a door.
+
+(TODO: Net cut out here - what happened?)
+
+A figure ([The Hotel Room Attacker](/Characters/NPC/The%20Hotel%20Room%20Attacker)) wearing all black is standing there. Seems to be a woman in a skin-tight suit 👀. They're wearing a mask that completely covers their face in black glass. They point to the briefcase in [Luca](/Characters/PCs/Luca)'s hand and says "I believe you have something that belongs to me" in a very modulated voice. Luca refuses. The person shows a holo view of footage they took of the group taking the briefcase from the ship. The footage includes [Mishy](/Characters/PCs/Mishy) when he was caught by the droid.
+
+The party refuses to hand the briefcase over so the person produces a staff and threatens them. The party hears [Mishy](/Characters/PCs/Mishy) trying to force the door open. [Prashap](/Characters/PCs/Prashap) manages to hack the door open while Mishy is tearing at it and Mishy falls through. The person immediately attacks Mishy who manages to deflect the blow. The person jumps up and activates their cloaking device.
+
+[Luca](/Characters/PCs/Luca) tries to sense the [The Hotel Room Attacker](/Characters/NPC/The%20Hotel%20Room%20Attacker)'s presence with the force. He can't sense them at all but he hears some shuffling above him. He gets the feeling the person is climbing up the wall above him. Mishy slams the door shut to try to keep them from leaving. [Vyna](/Characters/PCs/Vyna) finds them with their droid and takes a shot at them (TODO: I think?). The person activates their staff again and says "last chance to hand it over." She comes up to attack Luca who parries it with the briefcase and hits her in the face. Mishy joins the fight and attacks her. Luca tells Mishy not to kill her.
+
+[The Hotel Room Attacker](/Characters/NPC/The%20Hotel%20Room%20Attacker) jumps away and smashes the window, shattering it and jumps out through the window before the metal safety shutters slam closed. [Prashap](/Characters/PCs/Prashap) assumes we're dead and comes in to loot the room and our corpses but finds us still alive. He suggests we open the briefcase, not knowing that we already have. He manages to grab [The Lightsaber](/Plot/The%20Lightsaber) and figures out how to turn it on. It has a brown blade and everybody realises it's a lightsaber immediately. [Luca](/Characters/PCs/Luca) finds it strange that it's brown. He uses the force to grab it from Prashap's hands, throws it into the briefcase and closes it. Nobody knows what just happened.
+
+[Prashap](/Characters/PCs/Prashap) suggests we swap the briefcase contents with some decoy items and the party agrees. [Luca](/Characters/PCs/Luca) hides the sabre on his person and Prashap and [Mishy](/Characters/PCs/Mishy) plan to go to [The Market](/Places/Infinity%20Station/The%20Market) to find good decoy items. A maintenance droid distracts us and tells us to leave the room.
+
+We get to [The Market](/Places/Infinity%20Station/The%20Market). We head to the salvage shop. They find a piece of pipe that could be done up to pass as a broken lightsaber. [Prashap](/Characters/PCs/Prashap) trades the the datapads for the junk we need.
+
+[Mishy](/Characters/PCs/Mishy) goes the the armorer looking for a new Mandalorian mask to hide his identity. He instead gets talked into spending most of his money on a shoddy jetpack, which he happily takes for 300 credits.
+
+[Prashap](/Characters/PCs/Prashap) goes to steal some cleaning solvent from the cleaning droids. He uses the spice shaker to make a mess then grabs the mouse droids that comes to clean it up. He gets it open and rips the solvent reservoir from its guts and uses it to clean the rust off the lightsaber and uses [Luca](/Characters/PCs/Luca)'s robes to wipe the solvent off. He then goes off to try to pawn the mouse droid to the Jawas who try to call security on him.
+
+We start looking for disguises. [Prashap](/Characters/PCs/Prashap) gets a pimp-ass fancy Corsucant-style outfit. [Vyna](/Characters/PCs/Vyna) gets some wrap thing.
+
+We go the port and line up for the checkpoint to get to [Fridge](/Characters/PCs/Fridge)'s ship, with the cover story that we're [Prashap](/Characters/PCs/Prashap)'s hired bodyguards. The guard doesn't care and we go to the ship. We get on the ship and start resting.
+
+[Luca](/Characters/PCs/Luca) begins to dream of a vision. In the vision he is on a Mars-esque red, arid planet with strong winds. He looks around and sees nothing. Looking forward again there is a figure in black robes in red armour that he does not recognise that wasn't there before. They seem to be a male Cathar with orange eyes. He says to Luca, with a worried frown, "A great gift has been bestowed upon you. Do you know who I am?". Luca shakes his head. The figure responds, "No, I suspect not. What you have there...", as he points to [The Lightsaber](/Plot/The%20Lightsaber). Luca suddenly finds himself on his knees. "What you have there is a great gift. That is my legacy. I suspect we are similar, you and I." Luca finds he cannot use the force. The figure is pacing back and forth in the sand. "I, too, sook to master both sides of the force. Like you." Luca sees two statues in the distance and Luca realises he is somewhere on [Korriban](/Places/Korriban). He says "Korriban" out loud, to which the figure smirks, "Indeed. This is my tomb. It's been hidden for a thousand generations. Only whoever has *that* can find it.", pointing at the sabre. "Do you know who the force walkers were?" - "They are of the ancient Sith." Luka responds. "Correct. I knew there must have been a reason you ended up with that. The force walkers were a sect of Sith who were taught a secret technique passed down through generation who could use this technique of force walking to commune with dead and gain their knowledge. I was the last of the force walkers before my death. I reached out to the light and used the ability to gain knowledge from thousands of Jedi and Sith. (Received premonitions of the end. Realised Jedi can't learn the force walking ability and hid all knowledge of it.) I can teach you this ability. Bring my sabre back to my tomb, where my spirit is strongest. Reunite me with my sabre and I can teach you this ability."
