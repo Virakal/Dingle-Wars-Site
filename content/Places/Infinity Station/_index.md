@@ -4,7 +4,7 @@ url: /Places/Infinity Station
 weight: 70
 ---
 
-- 📄 [Casino District](./Casino%20District)
+- 📄 [Crystal Plaza](./Crystal%20Plaza)
 - 📄 [Fudd Ruckers](./Fudd%20Ruckers)
 - 📄 [Infinity Dome](./Infinity%20Dome)
 - 📄 [Infinity Station](./Infinity%20Station)

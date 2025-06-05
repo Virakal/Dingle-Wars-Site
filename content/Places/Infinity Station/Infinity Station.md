@@ -1,7 +1,7 @@
 ---
 title: Infinity Station
 date: 2025-05-16T01:16:46.486Z
-lastmod: 2025-05-22T01:10:19.257Z
+lastmod: 2025-06-05T02:15:55.759Z
 weight: 17000
 url: /Places/Infinity Station/Infinity Station
 ---
@@ -24,8 +24,9 @@ There seem to be four separate security groups:
 
 * Market security
 * Dome security
-* Droid security
-* (TODO: Missed one)
+* Droid security - PS Private Security? For the port/dock? Wear yellow outfits and are painted yellow.
+* (TODO: Missed one)\
+  Rancor group do the casino, hotel and marketplace security.
 
 ## Amenities
 
@@ -35,7 +36,7 @@ There seem to be four separate security groups:
 * [The Market](../The%20Market)
 * Spaceport with repair bay
 * Transit Station
-* [Casino District](../Casino%20District)
+* [Crystal Plaza](../Crystal%20Plaza)
   * [Infinity Dome](../Infinity%20Dome)
 * Lodging Area
   * [Starlight Hotel](../Starlight%20Hotel)

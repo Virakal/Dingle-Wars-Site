@@ -1,7 +1,7 @@
 ---
 title: Session 2
 date: 2025-05-21T23:16:49.339Z
-lastmod: 2025-05-22T02:51:01.215Z
+lastmod: 2025-06-05T00:02:20.736Z
 weight: 25000
 url: /Session/Session 2
 ---
@@ -13,7 +13,7 @@ The party, sans [Prashap](/Characters/PCs/Prashap), emerges from the freight lif
 
 The rest of the group agree to look for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) and figure out why he isn't responding to calls.
 
-[Fridge](/Characters/PCs/Fridge) calls [Prashap](/Characters/PCs/Prashap) to ask where he is. Prashap says he's looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) at the casino and Fridge tells him to wait there for us to regroup. The group takes transport to the [Casino District](/Places/Infinity%20Station/Casino%20District)  (passing straight by the lodgings where we're supposed to be going) in order to regroup.
+[Fridge](/Characters/PCs/Fridge) calls [Prashap](/Characters/PCs/Prashap) to ask where he is. Prashap says he's looking for [Gumala Adeen](/Characters/NPC/Gumala%20Adeen) at the casino and Fridge tells him to wait there for us to regroup. The group takes transport to the [Crystal Plaza](/Places/Infinity%20Station/Crystal%20Plaza)  (passing straight by the lodgings where we're supposed to be going) in order to regroup.
 
 [Prashap](/Characters/PCs/Prashap) is finding out how to enter people into the [Infinity Dome](/Places/Infinity%20Station/Infinity%20Dome). He finds that it seems like anybody can enter. He notices some people walk up to kiosks that seems like the place where you enter for fights. He doesn't see any kind of lounge or bookies. He asks a blue dude how to bet, who says that you have to buy a ticket to get in to bet or you can bet from your datapad. There is a big battle-royale kind of thing for the randos who join and the winner fights the champion. There are also show matches that are put on which are better to bet on. Prashap calls us and says he thinks we can make big credits at the casino with a plan.
 
