@@ -2,7 +2,7 @@
 title: Session 2
 date: 2025-05-21T23:16:49.339Z
 lastmod: 2025-06-05T00:02:20.736Z
-weight: 25000
+weight: 27000
 url: /Session/Session 2
 ---
 **Date: 21/05/2025**

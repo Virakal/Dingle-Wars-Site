@@ -2,7 +2,7 @@
 title: Fridge's Ship
 date: 2025-05-22T02:16:34.728Z
 lastmod: 2025-06-04T23:46:13.493Z
-weight: 12000
+weight: 14000
 url: /Places/Fridge's Ship
 ---
 ![](/ob/Images/Fridge's%20Ship.webp)\

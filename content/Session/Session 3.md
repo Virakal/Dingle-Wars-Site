@@ -1,8 +1,8 @@
 ---
 title: Session 3
 date: 2025-06-04T23:12:25.670Z
-lastmod: 2025-06-05T02:40:01.886Z
-weight: 26000
+lastmod: 2025-06-26T00:31:16.851Z
+weight: 28000
 url: /Session/Session 3
 ---
 **Date: 04/06/2025**
@@ -38,4 +38,4 @@ The door opens to one human person and a bunch of droids (at least 4). The man y
 
 [Prashap](/Characters/PCs/Prashap) threatens the man and asks for the first aid kit. He uses a colto shot to help heal his wound. [Luca](/Characters/PCs/Luca) gets all the security footage off of him and tells him to delete the footage of everything we've done. The Aualish guy in Huttese keeps asking to him out. Prashap asks him if he can help us get in touch with the criminals on the station. He says yes and that he knows "the broker" and he can help us out with a place to lay low. Prashap suggests we let everybody out so they confound the search for us a bit.
 
-We let everybody out and the Aualish guy introduces himself as Dax. He asks if he can get a blaster, picks it up and fires at the guard man. [Luca](/Characters/PCs/Luca) defends the guy, who thanks him. [Mishy](/Characters/PCs/Mishy) makes sure everything's been deleted then Luca slices the console in half. Dax gets pushed out of the elevator by the rest of the crowd as the crowd tries to escape.
+We let everybody out and the Aualish guy introduces himself as [Dax](/Dax). He asks if he can get a blaster, picks it up and fires at the guard man. [Luca](/Characters/PCs/Luca) defends the guy, who thanks him. [Mishy](/Characters/PCs/Mishy) makes sure everything's been deleted then Luca slices the console in half. Dax gets pushed out of the elevator by the rest of the crowd as the crowd tries to escape.

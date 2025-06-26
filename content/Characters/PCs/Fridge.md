@@ -2,7 +2,7 @@
 title: Fridge
 date: 2025-05-15T00:06:19.384Z
 lastmod: 2025-05-22T01:50:34.819Z
-weight: 6000
+weight: 8000
 url: /Characters/PCs/Fridge
 ---
 **Player:** Laura\

@@ -2,7 +2,7 @@
 title: Mishy
 date: 2025-05-14T23:34:27.974Z
 lastmod: 2025-05-16T05:05:41.839Z
-weight: 8000
+weight: 10000
 url: /Characters/PCs/Mishy
 ---
 **Player:** Jon\

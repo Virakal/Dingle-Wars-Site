@@ -2,7 +2,7 @@
 title: The Lightsaber
 date: 2025-05-15T02:06:42.074Z
 lastmod: 2025-05-22T02:40:44.950Z
-weight: 22000
+weight: 24000
 url: /Plot/The Lightsaber
 ---
 <img src="/ob/Images/Saber%20Hilt.png">\

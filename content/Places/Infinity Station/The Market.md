@@ -2,7 +2,7 @@
 title: The Market
 date: 2025-05-22T01:10:05.521Z
 lastmod: 2025-06-05T00:50:55.589Z
-weight: 19000
+weight: 21000
 url: /Places/Infinity Station/The Market
 ---
 * Security Solutions: Wepons & Armour

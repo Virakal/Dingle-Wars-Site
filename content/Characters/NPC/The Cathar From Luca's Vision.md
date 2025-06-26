@@ -2,7 +2,7 @@
 title: The Cathar From Luca's Vision
 date: 2025-05-22T02:36:53.103Z
 lastmod: 2025-05-22T02:54:30.145Z
-weight: 3000
+weight: 5000
 url: /Characters/NPC/The Cathar From Luca's Vision
 ---
 **Species:** Cathar

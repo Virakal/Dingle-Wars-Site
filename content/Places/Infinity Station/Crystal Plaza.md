@@ -2,7 +2,7 @@
 title: Crystal Plaza
 date: 2025-05-14T23:44:53.472Z
 lastmod: 2025-06-05T00:10:56.129Z
-weight: 14000
+weight: 16000
 url: /Places/Infinity Station/Crystal Plaza
 ---
 A gambling/casino area. Basically a huge Vegas type place. Everything is gold metal and neon signs.
