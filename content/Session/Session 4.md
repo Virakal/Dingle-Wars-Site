@@ -1,7 +1,7 @@
 ---
 title: Session 4
 date: 2025-06-26T00:06:41.239Z
-lastmod: 2025-06-26T01:59:17.457Z
+lastmod: 2025-06-26T02:10:40.336Z
 weight: 29000
 url: /Session/Session 4
 ---
@@ -15,7 +15,8 @@ As we reach the end of the corridor the door opens and a droid points a blaster 
 
 We continue down the maintenance hall. [Dax](/Characters/NPC/Dax) seems a little lost but leads us into a hatch that seems to be a sewer with dark green, glowing liquid flowing through. We follow. [Dax](/Characters/NPC/Dax) asks if anybody grabbed his blaster (we didn't). A big fleshy bird bastard flies over our head as we duck and chases Dax. [Prashap](/Characters/PCs/Prashap) starts blasting behind us because everybody else with a gun hesitates. We see the huge creature as Prashap lands a few blaster shots and causes it to fall into the "water" and struggle. Prashap delivers the coup de grace. Mishy realises it's a Mynock.
 
-![](../Images/Pasted%20image%2020250626023336.png|250)\
+<img src="/ob/Images/Mynock.png" width="500px">
+
 [Vyna](/Characters/PCs/Vyna) slips into the river. [Luca](/Characters/PCs/Luca) tries to help them and gets pulled in too. [Mishy](/Characters/PCs/Mishy) and [Fridge](/Characters/PCs/Fridge) have booked it. Luca casually force jumps out. Vyna gets pulled underwater and starts thrashing around while their droid searches for them.
 
 Meanwhile [Mishy](/Characters/PCs/Mishy) catches the Mynock as it's feeding on [Dax](/Characters/NPC/Dax)'s skull. Mishy starts trying to wrestle it off him. [Fridge](/Characters/PCs/Fridge) takes a shot and blasts through its wing, making it flee.
@@ -26,7 +27,7 @@ Meanwhile [Mishy](/Characters/PCs/Mishy) catches the Mynock as it's feeding on [
 
 We see a blue light at the end of the tunnel with caution tape. [Dax](/Characters/NPC/Dax) tells us this is it and knocks on the door. Nothing happens. [Luca](/Characters/PCs/Luca) notices bubbling in the water. [Fridge](/Characters/PCs/Fridge) crashes out and threatens Dax, who is confused more than intimidated. Suddenly, Dax gets pulled in. [Mishy](/Characters/PCs/Mishy) and Luca chase the creature while Fridge tries to open the door. Mishy jumps into the poop river and goes ham on the creature, killing it a lot.
 
-![](../Images/Pasted%20image%2020250626023359.png|250)
+<img src="/ob/Images/Octopus.png" width="300px">
 
 [Mishy](/Characters/PCs/Mishy) drags [Dax](/Characters/NPC/Dax) out of the river and sets him on the walkway. Mishy performs CPR and mouth-to-mouth while [Prashap](/Characters/PCs/Prashap) loots the body. He notices an implant in his skull through the teeth marks. He convinces [Fridge](/Characters/PCs/Fridge) to help extract the implant after [Luca](/Characters/PCs/Luca) refuses and goes off to try to open the door. Fridge fucks up and damages the implant with their vibroknife.
 
