@@ -1,2 +1,3 @@
 [tools]
 node = "24"
+hugo-extended = "0.165.0"
